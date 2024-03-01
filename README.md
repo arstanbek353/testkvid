@@ -1,8 +1,14 @@
 # task-mg
+NODE.JS version 18.x
 
 ## Project setup
 ```
 yarn install
+```
+
+### Start json-server
+```
+yarn server
 ```
 
 ### Compiles and hot-reloads for development
